@@ -29,4 +29,6 @@ Poderia baixar as imagens com um script e subir direto na API, mas as plataforma
 <br>
 Página disponível em: https://rodriguesrafaelm.github.io/biblioteca-web-page/
 <br>
+API usada: https://github.com/rodriguesrafaelm/biblioteca-web-page-api/
+<br>
 O banco de dados SQL foi carregado usando o Pandas em um dataset que encontrei no kaggle. https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
