@@ -58,14 +58,20 @@ label {
 .search-form {
     padding-top: 10rem;
 }
+.search-form input {
+    width: 5rem;
+}
 .search-form button, input{
     font-size: 1.5rem;
     border-style: solid;
     border-color: rgb(247, 163, 229);
     margin-left: 1rem;
-    padding: 10px 10px;
+    padding: 4px 8px;
     transition: ease-in-out 300ms;
     
+}
+.search-form button{
+    font-size: 1.3rem;
 }
 
 .search-form input:focus{
@@ -121,6 +127,11 @@ label {
     transform: scale(2);
     max-height: 2rem;
     margin-right: 2rem;
+    border-radius: 50%;
+
+}
+.mini-logo:hover{
+    box-shadow: 0 0 15px 5px rgb(240, 19, 222);
 }
 
 
@@ -168,16 +179,10 @@ label {
         grid-template-columns: repeat(auto-fill, 350px);
         min-width: 0
     }
-    .search-label {
-    padding-left: 1rem;
-    }
-    .search-form input{
-        margin-top: 1rem;
-        margin-left: 0%;
-    }
+
     .search-form button{
         margin-top: 4rem;
-        margin-left: 7rem;
+        margin-left: 4rem;
     }
     .my-git{
         position: absolute;
