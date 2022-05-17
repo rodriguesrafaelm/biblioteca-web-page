@@ -1,5 +1,5 @@
 Criei essa página pra testar a API que fiz deploy no heroku.<br>
-A base pra esse projeto foi esse [aqui](https://github.com/rodriguesrafaelm/lib-project) que criei usando Flask com SQL<br><br>
+A base pra esse projeto foi esse [aqui](https://github.com/rodriguesrafaelm/biblioteca-web-page-api) que criei usando Flask com SQL<br><br>
 
 
 <br>
